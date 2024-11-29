@@ -5,4 +5,4 @@ Section de Lab: A03
 
 # seg2505-tutorial6
 
-Lien vers le repo: 
+Lien vers le repo: https://github.com/EricAlbert87/seg2505-tutorial6/tree/main
